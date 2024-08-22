@@ -1,0 +1,3 @@
+[submodule "class7OS/am-kernels"]
+	path = class7OS/am-kernels
+	url = https://github.com/NJU-ProjectN/am-kernels.git
